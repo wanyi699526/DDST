@@ -3,7 +3,7 @@
 
 This is the official code and data repository for the paper:Docs2Table: Can LLMs Bridge Between Multi-Document and Structured Tables?
 
-![Overview](demo/Figure3.pdf)
+![Overview](demo/Figure3.png)
 
 
 ## LiveSum Dataset
