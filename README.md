@@ -14,5 +14,5 @@ The FGLM dataset can be found in the ``FGLM/`` folder.
 
 To evaluate the results, you can use the following command:
 ```shell
-python evaluate.py 
+python eval/eval_bert_metrics.py 
 ```
