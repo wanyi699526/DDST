@@ -8,7 +8,7 @@ This is the official code and data repository for the paper:Docs2Table: Can LLMs
 
 ## LiveSum Dataset
 
-The FGLM dataset can be found in the ``FGLM/`` folder.
+The FGLM dataset can be found in the ``data/FGLM/`` folder.
 
 ## Evaluation
 
